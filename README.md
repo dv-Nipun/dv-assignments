@@ -1,4 +1,8 @@
 # dv-assignments 
+#Package Name
+pkgNipun
+
+
 # Advanced Password Generator
 This code generates a random password of varying length while excluding certain letters read from external files.
 
@@ -12,5 +16,7 @@ This code generates a random password of varying length while excluding certain 
 5. ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+
 
 
